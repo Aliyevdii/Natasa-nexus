@@ -22,10 +22,10 @@ Salam {}, mənim adım {}! Mənim haqqımda məlumat öyrənmək üçün /help y
 
 Mən qrup idarə edicisiyəm və [sahibim budur](tg://user?id={}).
 
-Mənim yeniləmələrim haqqında - @MarieChechi & və dəstək qrupumuz olan @LamiyaSupport -a qatıla bilərsiz.
+Mənim yeniləmələrim haqqında - @NEXUS_MMC & və dəstək qrupumuz olan @iron_Blood_Gurup -a qatıla bilərsiz.
 
-Əgər sizində belə botunuzun olmasın istəyirsizsə bu botu [Heroku hesabınıza deploy edərək](https://heroku.com/deploy?template=https://github.com/ValiyevAli/LamiyaBOT),
-mənim kimi klon bot hazırlaya bilərsiz..
+Əyləncəli Vaxt Keçirməm İstəyirsiniz'sə[Sizidə Gurupmuza Dəvət Edirik](https://t./ne/iron_Blood_Gurup),
+mənim rəsmi support kanalım gələ bilərsiz @NEXUS_MMC..
 
 Daha çox məlumat üçün /help yazın...
 
@@ -53,7 +53,7 @@ DONATE_STRING = """Heya, glad to hear you want to donate!
 It took lots of work for [my creator](t.me/SonOfLars) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+There are two ways of paying him; [Gurul](https//t.me/İron_Blood_Gurup), or [Support](https//t.me/NEXUS_MMC)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
